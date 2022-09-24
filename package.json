@@ -1,0 +1,29 @@
+{
+  "name": "xoriznapp",
+  "version": "1.0.0",
+  "description": "xoriznapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xorizn/xoriznapp.git"
+  },
+  "keywords": [
+    "ANAKNGEN"
+  ],
+  "author": "Xorizn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xorizn/xoriznapp/issues"
+  },
+  "homepage": "https://github.com/Xorizn/xoriznapp#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
